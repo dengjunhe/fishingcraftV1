@@ -21,8 +21,6 @@ a:hover {
     color: rgb(0, 140, 255);
 }
 
-/* 渐出动画 */
-/* 上方渐出 */
 .OutTop {
     animation: OutTop 1s ease 0.3s 1 forwards;
     opacity: 0;
@@ -121,26 +119,26 @@ a:hover {
 /* 各区块 */
 
 .Box1 {
-    background: url(../image/bg1.png) no-repeat center center;
+    background: url(https://img1.imgtp.com/2022/07/20/sd1MgDVm.png) no-repeat center center;
 }
 
 .Box2 {
-    background: url(../image/bg2.png) no-repeat center center;
+    background: url(https://img1.imgtp.com/2022/07/20/yCnZenSJ.png) no-repeat center center;
     margin-top: -400px;
 }
 
 .Box3 {
-    background: url(../image/bg3.png) no-repeat center center;
+    background: url(https://img1.imgtp.com/2022/07/20/xe5VVezu.png) no-repeat center center;
     margin-top: -10px;
 }
 
 .Box4 {
-    background: url(../image/bg4.png) no-repeat center center;
+    background: url(https://img1.imgtp.com/2022/07/20/utwKX9tb.png) no-repeat center center;
     margin-top: -10px;
 }
 
 .Box5 {
-    background: url(../image/bg5.png) no-repeat center center;
+    background: url(https://img1.imgtp.com/2022/07/20/orZnrSKA.png) no-repeat center center;
 }
 
 .nutscraftBox {
@@ -466,7 +464,7 @@ a:hover {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url(../image/bread.png);
+    background-image: url(https://img1.imgtp.com/2022/07/20/Xiw7ZTYw.png);
     background-size: 100% 100%;
     vertical-align: middle;
     margin-right: 10px;
@@ -479,7 +477,7 @@ a:hover {
     margin-top: -410px;
     width: 100%;
     height: 100px;
-    background: url(../image/demo_background.png) no-repeat;
+    background: url(https://img1.imgtp.com/2022/07/20/hrdsy9vi.png) no-repeat;
     background-size: 100% 100%;
     text-align: center;
     padding-top: 50px;
